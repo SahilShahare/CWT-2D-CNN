@@ -1,0 +1,5 @@
+{
+    "afdb": "/mnt/scratch2/cs5200440/MIT-BIH-Atrial-Fibrillation-Database",
+    "ltafdb": "/mnt/scratch2/cs5200440/Long-Term-Af-Database",
+    "shdb": "/mnt/scratch2/cs5200440/Saitama-Heart-Database-Atrial-Fibrillation"
+}

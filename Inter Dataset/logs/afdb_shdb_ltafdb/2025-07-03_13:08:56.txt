@@ -1,0 +1,211 @@
+Using device: cuda
+Training:
+Epoch [1/50] Loss: 142.8487 | Train Acc: 90.79% | Sens: 0.9225 | Spec: 0.8933
+Train Confusion Matrix:
+[[35733  4267]
+ [ 3098 36902]]
+Epoch [2/50] Loss: 95.8757 | Train Acc: 94.17% | Sens: 0.9494 | Spec: 0.9339
+Train Confusion Matrix:
+[[37356  2644]
+ [ 2022 37978]]
+Epoch [3/50] Loss: 84.1331 | Train Acc: 94.88% | Sens: 0.9540 | Spec: 0.9436
+Train Confusion Matrix:
+[[37745  2255]
+ [ 1840 38160]]
+Epoch [4/50] Loss: 74.6389 | Train Acc: 95.54% | Sens: 0.9610 | Spec: 0.9498
+Train Confusion Matrix:
+[[37992  2008]
+ [ 1558 38442]]
+Epoch [5/50] Loss: 67.6803 | Train Acc: 96.00% | Sens: 0.9642 | Spec: 0.9559
+Train Confusion Matrix:
+[[38236  1764]
+ [ 1433 38567]]
+Epoch [6/50] Loss: 63.1533 | Train Acc: 96.20% | Sens: 0.9660 | Spec: 0.9579
+Train Confusion Matrix:
+[[38318  1682]
+ [ 1359 38641]]
+Epoch [7/50] Loss: 59.0178 | Train Acc: 96.51% | Sens: 0.9684 | Spec: 0.9617
+Train Confusion Matrix:
+[[38468  1532]
+ [ 1262 38738]]
+Epoch [8/50] Loss: 56.1396 | Train Acc: 96.65% | Sens: 0.9686 | Spec: 0.9643
+Train Confusion Matrix:
+[[38572  1428]
+ [ 1254 38746]]
+Epoch [9/50] Loss: 52.7602 | Train Acc: 96.89% | Sens: 0.9717 | Spec: 0.9661
+Train Confusion Matrix:
+[[38643  1357]
+ [ 1132 38868]]
+Epoch [10/50] Loss: 49.6080 | Train Acc: 97.05% | Sens: 0.9726 | Spec: 0.9683
+Train Confusion Matrix:
+[[38731  1269]
+ [ 1094 38906]]
+Epoch [11/50] Loss: 47.0740 | Train Acc: 97.23% | Sens: 0.9744 | Spec: 0.9702
+Train Confusion Matrix:
+[[38808  1192]
+ [ 1025 38975]]
+Epoch [12/50] Loss: 44.4677 | Train Acc: 97.34% | Sens: 0.9753 | Spec: 0.9714
+Train Confusion Matrix:
+[[38858  1142]
+ [  986 39014]]
+Epoch [13/50] Loss: 42.8509 | Train Acc: 97.48% | Sens: 0.9769 | Spec: 0.9727
+Train Confusion Matrix:
+[[38909  1091]
+ [  924 39076]]
+Epoch [14/50] Loss: 40.9390 | Train Acc: 97.64% | Sens: 0.9775 | Spec: 0.9753
+Train Confusion Matrix:
+[[39012   988]
+ [  900 39100]]
+Epoch [15/50] Loss: 38.5082 | Train Acc: 97.76% | Sens: 0.9783 | Spec: 0.9769
+Train Confusion Matrix:
+[[39077   923]
+ [  866 39134]]
+Epoch [16/50] Loss: 36.8019 | Train Acc: 97.89% | Sens: 0.9793 | Spec: 0.9784
+Train Confusion Matrix:
+[[39137   863]
+ [  827 39173]]
+Epoch [17/50] Loss: 34.1869 | Train Acc: 97.97% | Sens: 0.9798 | Spec: 0.9795
+Train Confusion Matrix:
+[[39180   820]
+ [  806 39194]]
+Epoch [18/50] Loss: 34.0654 | Train Acc: 97.97% | Sens: 0.9802 | Spec: 0.9791
+Train Confusion Matrix:
+[[39164   836]
+ [  791 39209]]
+Epoch [19/50] Loss: 31.9102 | Train Acc: 98.11% | Sens: 0.9812 | Spec: 0.9809
+Train Confusion Matrix:
+[[39238   762]
+ [  752 39248]]
+Epoch [20/50] Loss: 30.2213 | Train Acc: 98.20% | Sens: 0.9821 | Spec: 0.9818
+Train Confusion Matrix:
+[[39273   727]
+ [  714 39286]]
+Epoch [21/50] Loss: 28.9734 | Train Acc: 98.33% | Sens: 0.9831 | Spec: 0.9834
+Train Confusion Matrix:
+[[39338   662]
+ [  675 39325]]
+Epoch [22/50] Loss: 27.5043 | Train Acc: 98.36% | Sens: 0.9836 | Spec: 0.9836
+Train Confusion Matrix:
+[[39345   655]
+ [  655 39345]]
+Epoch [23/50] Loss: 27.2012 | Train Acc: 98.34% | Sens: 0.9834 | Spec: 0.9833
+Train Confusion Matrix:
+[[39334   666]
+ [  663 39337]]
+Epoch [24/50] Loss: 24.9044 | Train Acc: 98.53% | Sens: 0.9849 | Spec: 0.9856
+Train Confusion Matrix:
+[[39426   574]
+ [  605 39395]]
+Epoch [25/50] Loss: 24.2455 | Train Acc: 98.58% | Sens: 0.9849 | Spec: 0.9867
+Train Confusion Matrix:
+[[39469   531]
+ [  604 39396]]
+Epoch [26/50] Loss: 23.0823 | Train Acc: 98.60% | Sens: 0.9858 | Spec: 0.9862
+Train Confusion Matrix:
+[[39447   553]
+ [  566 39434]]
+Epoch [27/50] Loss: 22.6181 | Train Acc: 98.65% | Sens: 0.9863 | Spec: 0.9867
+Train Confusion Matrix:
+[[39468   532]
+ [  549 39451]]
+Epoch [28/50] Loss: 20.5814 | Train Acc: 98.77% | Sens: 0.9870 | Spec: 0.9883
+Train Confusion Matrix:
+[[39534   466]
+ [  520 39480]]
+Epoch [29/50] Loss: 20.5064 | Train Acc: 98.80% | Sens: 0.9876 | Spec: 0.9885
+Train Confusion Matrix:
+[[39539   461]
+ [  496 39504]]
+Epoch [30/50] Loss: 19.5852 | Train Acc: 98.84% | Sens: 0.9879 | Spec: 0.9890
+Train Confusion Matrix:
+[[39560   440]
+ [  485 39515]]
+Epoch [31/50] Loss: 19.0835 | Train Acc: 98.86% | Sens: 0.9879 | Spec: 0.9893
+Train Confusion Matrix:
+[[39571   429]
+ [  482 39518]]
+Epoch [32/50] Loss: 17.4895 | Train Acc: 98.97% | Sens: 0.9893 | Spec: 0.9901
+Train Confusion Matrix:
+[[39606   394]
+ [  429 39571]]
+Epoch [33/50] Loss: 18.6980 | Train Acc: 98.88% | Sens: 0.9883 | Spec: 0.9892
+Train Confusion Matrix:
+[[39567   433]
+ [  467 39533]]
+Epoch [34/50] Loss: 16.5532 | Train Acc: 99.03% | Sens: 0.9895 | Spec: 0.9911
+Train Confusion Matrix:
+[[39643   357]
+ [  421 39579]]
+Epoch [35/50] Loss: 16.5875 | Train Acc: 99.03% | Sens: 0.9899 | Spec: 0.9908
+Train Confusion Matrix:
+[[39632   368]
+ [  405 39595]]
+Epoch [36/50] Loss: 16.3929 | Train Acc: 99.04% | Sens: 0.9895 | Spec: 0.9913
+Train Confusion Matrix:
+[[39651   349]
+ [  420 39580]]
+Epoch [37/50] Loss: 15.4309 | Train Acc: 99.07% | Sens: 0.9902 | Spec: 0.9912
+Train Confusion Matrix:
+[[39648   352]
+ [  391 39609]]
+Epoch [38/50] Loss: 14.1557 | Train Acc: 99.16% | Sens: 0.9909 | Spec: 0.9923
+Train Confusion Matrix:
+[[39691   309]
+ [  365 39635]]
+Epoch [39/50] Loss: 13.9696 | Train Acc: 99.17% | Sens: 0.9910 | Spec: 0.9923
+Train Confusion Matrix:
+[[39693   307]
+ [  359 39641]]
+Epoch [40/50] Loss: 15.6090 | Train Acc: 99.08% | Sens: 0.9899 | Spec: 0.9918
+Train Confusion Matrix:
+[[39672   328]
+ [  405 39595]]
+Epoch [41/50] Loss: 13.4655 | Train Acc: 99.19% | Sens: 0.9912 | Spec: 0.9926
+Train Confusion Matrix:
+[[39706   294]
+ [  352 39648]]
+Epoch [42/50] Loss: 12.3991 | Train Acc: 99.29% | Sens: 0.9922 | Spec: 0.9935
+Train Confusion Matrix:
+[[39742   258]
+ [  312 39688]]
+Epoch [43/50] Loss: 12.3116 | Train Acc: 99.30% | Sens: 0.9925 | Spec: 0.9934
+Train Confusion Matrix:
+[[39735   265]
+ [  299 39701]]
+Epoch [44/50] Loss: 11.8624 | Train Acc: 99.31% | Sens: 0.9929 | Spec: 0.9933
+Train Confusion Matrix:
+[[39731   269]
+ [  284 39716]]
+Epoch [45/50] Loss: 11.9890 | Train Acc: 99.28% | Sens: 0.9921 | Spec: 0.9935
+Train Confusion Matrix:
+[[39739   261]
+ [  316 39684]]
+Epoch [46/50] Loss: 12.7696 | Train Acc: 99.21% | Sens: 0.9912 | Spec: 0.9930
+Train Confusion Matrix:
+[[39719   281]
+ [  351 39649]]
+Epoch [47/50] Loss: 11.3934 | Train Acc: 99.36% | Sens: 0.9930 | Spec: 0.9941
+Train Confusion Matrix:
+[[39764   236]
+ [  278 39722]]
+Epoch [48/50] Loss: 9.7758 | Train Acc: 99.44% | Sens: 0.9939 | Spec: 0.9948
+Train Confusion Matrix:
+[[39791   209]
+ [  243 39757]]
+Epoch [49/50] Loss: 10.7233 | Train Acc: 99.36% | Sens: 0.9929 | Spec: 0.9943
+Train Confusion Matrix:
+[[39773   227]
+ [  283 39717]]
+Epoch [50/50] Loss: 8.8697 | Train Acc: 99.50% | Sens: 0.9945 | Spec: 0.9955
+Train Confusion Matrix:
+[[39821   179]
+ [  219 39781]]
+Testing:
+
+ Final Evaluation on Validation Set:
+Accuracy     : 84.39%
+Sensitivity  : 0.7309
+Specificity  : 0.9569
+Test Confusion Matrix:
+[[9569  431]
+ [2691 7309]]
