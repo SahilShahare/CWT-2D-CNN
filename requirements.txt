@@ -1,0 +1,10 @@
+wfdb==4.3.0
+scipy==1.16.0
+numpy==2.2.1
+PyWavelets==1.8.0
+scikit-learn==1.7.0
+pandas==2.3.0
+opencv-python==4.11.0.86
+torch==2.5.0
+torchvision==0.20.0
+torchsummary==1.5.1
