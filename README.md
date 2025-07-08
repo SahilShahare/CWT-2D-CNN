@@ -92,3 +92,5 @@ Find the results in ```Inter Dataset/logs/shdb_ltafdb_afdb/{yyyy-mm-dd_hh:mm:ss}
   .
   
   ```
+
+* Refer [here](https://github.com/SahilShahare/Nirvana-Setup) for conda and pytorch installation on nirvana.
